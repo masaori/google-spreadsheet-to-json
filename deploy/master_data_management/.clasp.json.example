@@ -1,0 +1,4 @@
+{
+  "scriptId": "<put your script id>",
+  "rootDir": "./deploy/master_data_management/dist"
+}
